@@ -1,0 +1,598 @@
+[
+  {
+    "id": "1",
+    "name": "Premium Wireless Headphones",
+    "description": "Professional-grade wireless headphones with active noise cancellation and studio-quality sound.",
+    "price": 299.99,
+    "originalPrice": 399.99,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800&q=80"
+    ],
+    "category": "electronics",
+    "subcategory": "audio",
+    "rating": 2.8,
+    "reviewCount": 1247,
+    "stock": 45,
+    "tags": [
+      "wireless",
+      "noise-cancelling",
+      "premium"
+    ],
+    "featured": true,
+    "trending": true,
+    "brand": "AudioTech",
+    "specifications": {
+      "Battery Life": "30 hours",
+      "Connectivity": "Bluetooth 5.3",
+      "Weight": "250g",
+      "Driver Size": "40mm"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Smart Fitness Watch",
+    "description": "Advanced fitness tracking with heart rate monitoring, GPS, and comprehensive health insights.",
+    "price": 249.99,
+    "originalPrice": 299.99,
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80",
+      "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&q=80"
+    ],
+    "category": "electronics",
+    "subcategory": "wearables",
+    "rating": 4.6,
+    "reviewCount": 892,
+    "stock": 32,
+    "tags": [
+      "fitness",
+      "smartwatch",
+      "health"
+    ],
+    "featured": true,
+    "trending": false,
+    "brand": "FitTech",
+    "specifications": {
+      "Battery Life": "7 days",
+      "Water Resistance": "50m",
+      "Display": "AMOLED",
+      "GPS": "Built-in"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Minimalist Leather Backpack",
+    "description": "Handcrafted leather backpack with modern design. Perfect for work, travel, and everyday use.",
+    "price": 189.99,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&q=80",
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=800&q=80"
+    ],
+    "category": "fashion",
+    "subcategory": "bags",
+    "rating": 4.7,
+    "reviewCount": 456,
+    "stock": 28,
+    "tags": [
+      "leather",
+      "minimalist",
+      "handcrafted"
+    ],
+    "featured": true,
+    "trending": true,
+    "brand": "CraftBags",
+    "specifications": {
+      "Material": "Genuine Leather",
+      "Capacity": "20L",
+      "Dimensions": "40x30x15cm",
+      "Laptop Compartment": "15 inch"
+    }
+  },
+  {
+    "id": "4",
+    "name": "MacBook Pro 14-inch",
+    "description": "Powerful laptop with M3 Pro chip, stunning Liquid Retina XDR display, and all-day battery life.",
+    "price": 1999.99,
+    "originalPrice": 2199.99,
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&q=80",
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800&q=80"
+    ],
+    "category": "electronics",
+    "subcategory": "computers",
+    "rating": 4.9,
+    "reviewCount": 2341,
+    "stock": 15,
+    "tags": [
+      "laptop",
+      "professional",
+      "apple"
+    ],
+    "featured": true,
+    "trending": true,
+    "brand": "Apple",
+    "specifications": {
+      "Processor": "M3 Pro",
+      "RAM": "16GB",
+      "Storage": "512GB SSD",
+      "Display": "14.2-inch Liquid Retina XDR"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Ergonomic Office Chair",
+    "description": "Premium ergonomic office chair with lumbar support and adjustable features for maximum comfort.",
+    "price": 449.99,
+    "originalPrice": 599.99,
+    "images": [
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80",
+      "https://images.unsplash.com/photo-1541558869434-2840d308329a?w=800&q=80"
+    ],
+    "category": "furniture",
+    "subcategory": "office",
+    "rating": 4.5,
+    "reviewCount": 678,
+    "stock": 23,
+    "tags": [
+      "ergonomic",
+      "office",
+      "comfort"
+    ],
+    "featured": false,
+    "trending": true,
+    "brand": "ComfortSeating",
+    "specifications": {
+      "Weight Capacity": "150kg",
+      "Adjustable Height": "Yes",
+      "Lumbar Support": "Yes",
+      "Material": "Mesh & Fabric"
+    }
+  },
+  {
+    "id": "6",
+    "name": "Wireless Charging Pad",
+    "description": "Fast wireless charging pad compatible with all Qi-enabled devices. Sleek and modern design.",
+    "price": 49.99,
+    "images": [
+      "https://images.unsplash.com/photo-1633381638729-27f730955c23?w=600&auto=format",
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+    ],
+    "category": "electronics",
+    "subcategory": "accessories",
+    "rating": 4.2,
+    "reviewCount": 345,
+    "stock": 64,
+    "tags": [
+      "wireless",
+      "charging",
+      "modern"
+    ],
+    "featured": false,
+    "trending": true,
+    "brand": "ChargeTech",
+    "specifications": {
+      "Output": "15W",
+      "Compatibility": "Qi-enabled devices",
+      "LED Indicator": "Yes",
+      "Cable Length": "1.2m"
+    }
+  },
+  {
+    "id": "7",
+    "name": "Premium Coffee Maker",
+    "description": "Professional-grade coffee maker with precision brewing technology and temperature control.",
+    "price": 299.99,
+    "images": [
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&q=80",
+      "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&q=80"
+    ],
+    "category": "home",
+    "subcategory": "kitchen",
+    "rating": 4.7,
+    "reviewCount": 892,
+    "stock": 31,
+    "tags": [
+      "coffee",
+      "premium",
+      "kitchen"
+    ],
+    "featured": true,
+    "trending": false,
+    "brand": "BrewMaster",
+    "specifications": {
+      "Capacity": "12 cups",
+      "Brew Time": "6 minutes",
+      "Temperature Control": "Yes",
+      "Auto Shut-off": "2 hours"
+    }
+  },
+  {
+    "id": "8",
+    "name": "Luxury Silk Scarf",
+    "description": "Hand-printed silk scarf with elegant patterns. Perfect accessory for any outfit.",
+    "price": 89.99,
+    "originalPrice": 129.99,
+    "images": [
+      "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=800&q=80",
+      "https://plus.unsplash.com/premium_photo-1698923894850-a9a89952c212?w=600&auto=format"
+    ],
+    "category": "fashion",
+    "subcategory": "accessories",
+    "rating": 4.6,
+    "reviewCount": 234,
+    "stock": 67,
+    "tags": [
+      "silk",
+      "luxury",
+      "accessories"
+    ],
+    "featured": false,
+    "trending": true,
+    "brand": "SilkCouture",
+    "specifications": {
+      "Material": "100% Mulberry Silk",
+      "Size": "90x90cm",
+      "Care": "Dry Clean Only",
+      "Origin": "Italy"
+    }
+  },
+  {
+    "id": "9",
+    "name": "Gaming Mechanical Keyboard",
+    "description": "High-performance mechanical keyboard with RGB backlighting and tactile switches.",
+    "price": 149.99,
+    "originalPrice": 199.99,
+    "images": [
+      "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=800&q=80",
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&q=80"
+    ],
+    "category": "electronics",
+    "subcategory": "gaming",
+    "rating": 4.8,
+    "reviewCount": 1567,
+    "stock": 89,
+    "tags": [
+      "gaming",
+      "mechanical",
+      "rgb"
+    ],
+    "featured": true,
+    "trending": true,
+    "brand": "GameTech",
+    "specifications": {
+      "Switch Type": "Cherry MX Blue",
+      "Backlighting": "RGB",
+      "Connection": "USB-C",
+      "Key Layout": "Full Size"
+    }
+  },
+  {
+    "id": "10",
+    "name": "Stainless Steel Water Bottle",
+    "description": "Insulated stainless steel water bottle that keeps drinks cold for 24 hours or hot for 12 hours.",
+    "price": 34.99,
+    "images": [
+      "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=800&q=80",
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&q=80"
+    ],
+    "category": "lifestyle",
+    "subcategory": "drinkware",
+    "rating": 4.3,
+    "reviewCount": 892,
+    "stock": 87,
+    "tags": [
+      "insulated",
+      "eco-friendly",
+      "durable"
+    ],
+    "featured": false,
+    "trending": false,
+    "brand": "HydroLife",
+    "specifications": {
+      "Capacity": "750ml",
+      "Material": "Stainless Steel",
+      "Insulation": "Double Wall",
+      "Leak Proof": "Yes"
+    }
+  },
+  {
+    "id": "11",
+    "name": "4K Ultra HD Smart TV",
+    "description": "Immersive 55-inch 4K UHD Smart TV with HDR10+ and built-in streaming apps.",
+    "price": 799.99,
+    "originalPrice": 999.99,
+    "images": [
+      "https://images.unsplash.com/photo-1653753367649-d949933f32df?w=600&auto=format",
+      "https://images.unsplash.com/photo-1737253293076-7b40c63fd8ca?w=600&auto=format"
+    ],
+    "category": "electronics",
+    "subcategory": "tv",
+    "rating": 4.7,
+    "reviewCount": 1452,
+    "stock": 20,
+    "tags": [
+      "smart",
+      "4k",
+      "home"
+    ],
+    "featured": true,
+    "trending": true,
+    "brand": "VisionX",
+    "specifications": {
+      "Resolution": "3840x2160",
+      "HDR": "HDR10+",
+      "Size": "55-inch",
+      "Smart Features": "Netflix, Prime, YouTube"
+    }
+  },
+  {
+    "id": "12",
+    "name": "Noise Cancelling Earbuds",
+    "description": "Compact true wireless earbuds with ANC and wireless charging case.",
+    "price": 129.99,
+    "originalPrice": 179.99,
+    "images": [
+      "https://images.unsplash.com/photo-1733641841209-8ff799cc4de2?w=600&auto=format",
+      "https://images.unsplash.com/photo-1733641839465-f9de0c9b9bde?w=600&auto=format"
+    ],
+    "category": "electronics",
+    "subcategory": "audio",
+    "rating": 4.4,
+    "reviewCount": 678,
+    "stock": 50,
+    "tags": [
+      "wireless",
+      "earbuds",
+      "ANC"
+    ],
+    "featured": false,
+    "trending": true,
+    "brand": "SoundMax",
+    "specifications": {
+      "Battery Life": "6 hours + 24h case",
+      "Connectivity": "Bluetooth 5.2",
+      "Charging": "Wireless + USB-C",
+      "Water Resistance": "IPX4"
+    }
+  },
+  {
+    "id": "13",
+    "name": "Luxury Wristwatch",
+    "description": "Automatic mechanical wristwatch with sapphire glass and stainless steel strap.",
+    "price": 599.99,
+    "originalPrice": 799.99,
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80",
+      "https://images.unsplash.com/photo-1601924579790-d4f6e4b5ec24?w=800&q=80"
+    ],
+    "category": "fashion",
+    "subcategory": "watches",
+    "rating": 4.9,
+    "reviewCount": 983,
+    "stock": 12,
+    "tags": [
+      "luxury",
+      "watch",
+      "automatic"
+    ],
+    "featured": true,
+    "trending": true,
+    "brand": "TimeCraft",
+    "specifications": {
+      "Movement": "Automatic",
+      "Glass": "Sapphire Crystal",
+      "Material": "Stainless Steel",
+      "Water Resistance": "100m"
+    }
+  },
+  {
+    "id": "14",
+    "name": "Electric Standing Desk",
+    "description": "Adjustable height standing desk with memory presets and dual motors.",
+    "price": 699.99,
+    "originalPrice": 899.99,
+    "images": [
+      "https://images.unsplash.com/photo-1642260460129-bef801920b70?w=600&auto=format",
+      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?w=800&q=80"
+    ],
+    "category": "furniture",
+    "subcategory": "office",
+    "rating": 4.6,
+    "reviewCount": 652,
+    "stock": 18,
+    "tags": [
+      "desk",
+      "ergonomic",
+      "office"
+    ],
+    "featured": true,
+    "trending": false,
+    "brand": "WorkFlex",
+    "specifications": {
+      "Height Range": "65cm - 125cm",
+      "Load Capacity": "120kg",
+      "Controls": "Digital + Memory",
+      "Material": "Bamboo Top"
+    }
+  },
+  {
+    "id": "15",
+    "name": "Smart Home Speaker",
+    "description": "Voice-controlled smart speaker with premium sound and IoT hub support.",
+    "price": 199.99,
+    "originalPrice": 249.99,
+    "images": [
+      "https://images.unsplash.com/photo-1655976796910-b239b1a1a41c?w=600&auto=format",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=800&q=80"
+    ],
+    "category": "electronics",
+    "subcategory": "smart-home",
+    "rating": 4.5,
+    "reviewCount": 743,
+    "stock": 35,
+    "tags": [
+      "smart",
+      "speaker",
+      "iot"
+    ],
+    "featured": false,
+    "trending": true,
+    "brand": "HomeTech",
+    "specifications": {
+      "Voice Assistant": "Built-in",
+      "Connectivity": "WiFi + Bluetooth",
+      "Speakers": "360° sound",
+      "Compatibility": "Smart devices"
+    }
+  },
+  {
+    "id": "16",
+    "name": "Designer Sunglasses",
+    "description": "Unisex polarized sunglasses with UV400 protection and premium acetate frame.",
+    "price": 159.99,
+    "originalPrice": 229.99,
+    "images": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=800&q=80",
+      "https://images.unsplash.com/photo-1603988363607-6d7c016d58c6?w=800&q=80"
+    ],
+    "category": "fashion",
+    "subcategory": "accessories",
+    "rating": 4.3,
+    "reviewCount": 321,
+    "stock": 47,
+    "tags": [
+      "sunglasses",
+      "fashion",
+      "polarized"
+    ],
+    "featured": true,
+    "trending": true,
+    "brand": "SunCouture",
+    "specifications": {
+      "Lens": "Polarized UV400",
+      "Frame": "Acetate",
+      "Case": "Leather Hard Case",
+      "Warranty": "2 years"
+    }
+  },
+  {
+    "id": "17",
+    "name": "Smart Air Purifier",
+    "description": "HEPA filter smart air purifier with real-time air quality monitoring.",
+    "price": 349.99,
+    "originalPrice": 399.99,
+    "images": [
+      "https://images.unsplash.com/photo-1732229033839-c76b4071c449?w=600&auto=format",
+      "https://media.istockphoto.com/id/1782152217/photo/mother-and-her-little-boy-adjusting-air-purifier-at-home.webp?a=1&b=1&s=612x612&w=0&k=20&c=kDtQMM1Hcecth51DEH2rQfNF6SMijj_08482Jr7uves="
+    ],
+    "category": "home",
+    "subcategory": "appliances",
+    "rating": 4.7,
+    "reviewCount": 578,
+    "stock": 22,
+    "tags": [
+      "air",
+      "health",
+      "smart"
+    ],
+    "featured": true,
+    "trending": false,
+    "brand": "PureAir",
+    "specifications": {
+      "Coverage": "40m²",
+      "Filter": "HEPA 13",
+      "Noise Level": "28 dB",
+      "App Control": "Yes"
+    }
+  },
+  {
+    "id": "18",
+    "name": "Portable Projector",
+    "description": "Compact 1080p portable projector with wireless screen mirroring.",
+    "price": 429.99,
+    "originalPrice": 499.99,
+    "images": [
+      "https://images.unsplash.com/photo-1638154320403-1bc308a01398?w=600&auto=format",
+      "https://plus.unsplash.com/premium_photo-1710522706863-71b117956d4b?w=600&auto=format"
+    ],
+    "category": "electronics",
+    "subcategory": "projectors",
+    "rating": 2.5,
+    "reviewCount": 452,
+    "stock": 26,
+    "tags": [
+      "projector",
+      "portable",
+      "wireless"
+    ],
+    "featured": false,
+    "trending": true,
+    "brand": "VisionPro",
+    "specifications": {
+      "Resolution": "1080p",
+      "Brightness": "500 ANSI",
+      "Connectivity": "WiFi, HDMI, USB",
+      "Battery": "3 hours"
+    }
+  },
+  {
+    "id": "19",
+    "name": "Yoga Mat Pro",
+    "description": "Eco-friendly non-slip yoga mat with extra cushioning and durability.",
+    "price": 89.99,
+    "originalPrice": 119.99,
+    "images": [
+      "https://images.unsplash.com/photo-1522844123782-9547a63eb28b?w=600&auto=format",
+      "https://images.unsplash.com/photo-1630225758612-8c511aad6c00?w=600&auto=format"
+    ],
+    "category": "lifestyle",
+    "subcategory": "fitness",
+    "rating": 3.6,
+    "reviewCount": 234,
+    "stock": 55,
+    "tags": [
+      "yoga",
+      "fitness",
+      "eco-friendly"
+    ],
+    "featured": true,
+    "trending": true,
+    "brand": "ZenMat",
+    "specifications": {
+      "Material": "Natural Rubber",
+      "Thickness": "6mm",
+      "Dimensions": "183x61cm",
+      "Weight": "2.5kg"
+    }
+  },
+  {
+    "id": "20",
+    "name": "Electric Bike",
+    "description": "Premium electric bike with 60km range, pedal assist, and disc brakes.",
+    "price": 1299.99,
+    "originalPrice": 1599.99,
+    "images": [
+      "https://images.unsplash.com/photo-1594007654729-cdf2ec0a9f9b?w=800&q=80",
+      "https://images.unsplash.com/photo-1581579188871-45ea61ce57fa?w=800&q=80"
+    ],
+    "category": "lifestyle",
+    "subcategory": "transport",
+    "rating": 4.8,
+    "reviewCount": 689,
+    "stock": 14,
+    "tags": [
+      "bike",
+      "electric",
+      "eco-friendly"
+    ],
+    "featured": true,
+    "trending": true,
+    "brand": "EcoRide",
+    "specifications": {
+      "Range": "60km",
+      "Battery": "Lithium 36V",
+      "Motor": "250W",
+      "Top Speed": "25 km/h"
+    }
+  }
+]
